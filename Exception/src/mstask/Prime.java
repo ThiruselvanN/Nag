@@ -1,0 +1,35 @@
+package mstask;
+
+public class Prime {
+	
+	public static void main(String[] args) {
+		
+		Prime p = new Prime();
+		int a = 7;
+		System.out.println(p.findPrime(a));
+	}
+	
+	public String findPrime(int num) {
+		boolean isPrime = true;
+		
+		for(int i = 2; i<num ; i++) {
+			if(num%i==0) {
+				isPrime = false;
+				break;
+			}
+		}
+		
+		if(isPrime) {
+			return " is prime number";
+		}
+		
+		else {
+			return "is not prime number";
+		}
+	}
+	
+		
+	
+	
+
+}

@@ -1,0 +1,27 @@
+package mstask;
+
+public class Prime {
+	
+	public String findPrime(int num) {	
+		
+		boolean isPrime = true;
+		
+		for(int i = 2; i<num ; i++) {
+			if(num%i==0) {
+				isPrime = false;
+			}
+		}
+		
+		if(isPrime) {
+			return num+ " is prime number";
+		}
+		
+		else {
+			return num+ " is not prime number";
+		}
+				
+		
+	}
+	
+
+}

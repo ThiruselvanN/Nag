@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.edge.EdgeDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.ui.Select"/>
+    <fullyQualifiedTypeName name="com.JulyProject.Base_Class"/>
+    <fullyQualifiedTypeName name="com.pojo.PojoA"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.FindBy"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.support.PageFactory"/>
+    <fullyQualifiedTypeName name="com.pojo.LoginPage"/>
+    <fullyQualifiedTypeName name="com.pojo.SearchHotelPage"/>
+    <fullyQualifiedTypeName name="com.pom.PageObjectManagement"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="com.helperfile.FileReadManager"/>
+    <fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+    <fullyQualifiedTypeName name="io.cucumber.junit.Cucumber"/>
+    <fullyQualifiedTypeName name="io.cucumber.junit.CucumberOptions"/>
+    <fullyQualifiedTypeName name="com.Base.Base_Class"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="day5.ElseifLadder4"/>
+    <fullyQualifiedTypeName name="functions.Calculator"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java8Feautures.Vehicle"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+</qualifiedTypeNameHistroy>

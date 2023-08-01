@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;forclass1.Continue&apos; to &apos;ContinueBreak&apos;&#x0D;&#x0A;- Original project: &apos;oneSoftJava&apos;&#x0D;&#x0A;- Original element: &apos;forclass1.Continue&apos;&#x0D;&#x0A;- Renamed element: &apos;forclass1.ContinueBreak&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Continue&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;forclass1{Continue.java[Continue" matchStrategy="1" name="ContinueBreak" qualified="false" references="true" similarDeclarations="false" stamp="1687605386582" textual="false" version="1.0"/>
+</session>

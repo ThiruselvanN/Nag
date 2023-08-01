@@ -1,0 +1,25 @@
+package java8Feautures;
+
+import java.util.Optional;
+
+public class optional {
+	
+	public static void main(String[] args) {
+		
+		String word = null;
+		
+		Optional <String> check = Optional.ofNullable(word);
+		
+		System.out.println(check);
+		
+		System.out.println(check.isPresent());
+		
+		if(check.isPresent()==true) {
+			System.out.println(word.toUpperCase());
+		}
+		else {
+			 System.out.println("The value is null");
+		}
+	}
+
+}

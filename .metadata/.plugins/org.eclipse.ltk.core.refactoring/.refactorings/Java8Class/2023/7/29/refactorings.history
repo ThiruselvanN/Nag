@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;java8Feautures.Appliance&apos; to &apos;Ac&apos;&#x0D;&#x0A;- Original project: &apos;Java8Class&apos;&#x0D;&#x0A;- Original element: &apos;java8Feautures.Appliance&apos;&#x0D;&#x0A;- Renamed element: &apos;java8Feautures.Ac&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Appliance&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;java8Feautures{Appliance.java[Appliance" matchStrategy="1" name="Ac" qualified="false" references="true" similarDeclarations="false" stamp="1689758676020" textual="false" version="1.0"/>
+</session>

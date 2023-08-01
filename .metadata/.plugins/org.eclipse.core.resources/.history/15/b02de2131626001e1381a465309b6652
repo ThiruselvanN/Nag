@@ -1,0 +1,9 @@
+package java8Feautures;
+
+public class Appliance implements HomeAppliance {
+	
+	public String appliance() {
+		return "This is a Home Appliance";
+	}
+
+}
